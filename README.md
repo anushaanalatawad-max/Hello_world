@@ -1,2 +1,6 @@
 # Hello_world
-This repository is for practicing the github flow
+
+Hello! My name is Anusha.
+
+I am learning GitHub and exploring coding.
+This is my first GitHub project.
